@@ -80,3 +80,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 6. [Bulma](https://www.npmjs.com/package/bulma) CSS
 7. [Axios](https://github.com/axios/axios)
 
+## Installation
+
+Once you have the repository on your pc, the first thing to do is run in your terminal and position yourself at the root of the project the command
+```
+> npm install
+```
+The above command is responsible for downloading install all npm packages for the project
+
+To run the application, type the following command
+```
+> npm start
+```
+In order for this project to work correctly, it occupies the backend made in CodeIgniter 4, download it from [Notes Backend](https://google.com)
