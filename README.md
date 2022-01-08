@@ -86,7 +86,7 @@ Once you have the repository on your pc, the first thing to do is run in your te
 ```
 > npm install
 ```
-The above command is responsible for downloading install all npm packages for the project
+The above command takes care of downloading and installing all the npm packages for this project
 
 To run the application, type the following command
 ```
