@@ -92,4 +92,5 @@ To run the application, type the following command
 ```
 > npm start
 ```
-In order for this project to work correctly, it occupies the backend made in CodeIgniter 4, download it from [Notes Backend](https://google.com)
+
+In order for this project to work correctly, it occupies the backend made in CodeIgniter 4, download it from [Notes Backend](https://github.com/devArty24/notesAppBackCI4)
