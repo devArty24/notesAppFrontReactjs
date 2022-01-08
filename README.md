@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Key Features
+
+1. Reactjs v17.0.2
+2. useState Hook
+3. useEffect Hook
+4. Props
+5. Conditional rendering
+6. [Bulma](https://www.npmjs.com/package/bulma) CSS
+7. [Axios](https://github.com/axios/axios)
+
